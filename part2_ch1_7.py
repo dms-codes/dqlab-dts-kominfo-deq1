@@ -8,10 +8,10 @@ print(">>> Fitur .insert()")
 list_score = ['Budi','Sud','Budi','Budi','Sud']
 list_score.insert(3, 'Sud')
 print(list_score)
-# Fitur .pop()
+# Fitur .pop(1)
 print(">>> Fitur .pop()")
 list_menu = ['Gado-gado', 'Ayam Goreng', 'Rendang']
-list_menu.pop()
+list_menu.pop(1)
 print(list_menu)
 # Fitur .remove()
 print(">>> Fitur .remove()")
